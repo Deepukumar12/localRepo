@@ -1,7 +1,9 @@
 h1{
     color: red;
-<<<<<<< HEAD
-=======
+/* <<<<<<< HEAD */
+/* ======= */
     background-color: pink;
->>>>>>> 83a2abefb661cd11e5330d573ad110bd0ff28337
+/* >>>>>>> 83a2abefb661cd11e5330d573ad110bd0ff28337 */
+    font-size: 24px;
+    text-align: center;
 }
